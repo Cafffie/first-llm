@@ -1,0 +1,532 @@
+,words,meaning
+0,Time,"The indefinite continued progress of existence and events in the past, present, and future."
+1,Year,"The time taken by the Earth to make one revolution around the sun, approximately 365.25 days."
+2,People,"Human beings in general, considered collectively."
+3,Way,"A method, style, or manner of doing something; a route or path."
+4,Day,"A period of 24 hours, starting and ending at midnight."
+5,Man,An adult human male.
+6,Thing,An inanimate material object as distinct from a living sentient being.
+7,Woman,An adult human female.
+8,Life,"The condition that distinguishes living organisms from inanimate matter, marked by the ability to grow, reproduce, and undergo metabolism."
+9,Child,A young human being below the age of puberty or below the legal age of majority.
+10,World,"The Earth, together with all of its countries, peoples, and natural features."
+11,School,An institution for educating children or young people.
+12,State,A nation or territory considered as an organized political community under one government.
+13,Family,A group consisting of parents and children living together in a household.
+14,Student,A person who is studying at a school or college.
+15,Group,"A number of people or things that are located, gathered, or classed together."
+16,Country,"A nation with its own government, occupying a particular territory."
+17,Problem,A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.
+18,Hand,"The end part of a person's arm beyond the wrist, including the palm, fingers, and thumb."
+19,Part,A piece or segment of something.
+20,Place,A particular position or point in space.
+21,Case,An instance of a particular situation; an example.
+22,Week,A period of seven days.
+23,Company,A commercial business.
+24,System,A set of connected things or devices that operate together.
+25,Program,A set of instructions for a computer.
+26,Question,A sentence worded or expressed so as to elicit information.
+27,Work,Activity involving mental or physical effort done to achieve a purpose or result.
+28,Government,"The governing body of a nation, state, or community."
+29,Number,A mathematical value or a figure.
+30,Night,The period of darkness in each twenty-four hours.
+31,Point,"A particular spot, place, or position in an area or on a map."
+32,Home,The place where one lives.
+33,Water,"A transparent, odorless, tasteless liquid essential for life."
+34,Room,A space or area that can be occupied.
+35,Mother,A female parent.
+36,Area,"A region or part of a town, a country, or the world."
+37,Money,A medium of exchange in the form of coins and banknotes.
+38,Story,An account of imaginary or real people and events told for entertainment.
+39,Fact,A thing that is known or proved to be true.
+40,Month,Each of the twelve named periods into which a year is divided.
+41,Lot,"A particular group, collection, or set of things."
+42,Right,"In accordance with what is good, proper, or just."
+43,Study,The devotion of time and attention to acquiring knowledge.
+44,Book,A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+45,Eye,Each of a pair of globular organs in the head through which people and vertebrate animals see.
+46,Job,"A task or piece of work, especially one that is paid."
+47,Word,A single distinct meaningful element of speech or writing.
+48,Business,The practice of making one's living by engaging in commerce.
+49,Issue,An important topic or problem for debate or discussion.
+50,Side,A position or attitude that is contrary to or opposite of one previously expressed or specified.
+51,Kind,A group of people or things having similar characteristics.
+52,Head,The upper part of the human body.
+53,House,A building for human habitation.
+54,Service,The action of helping or doing work for someone.
+55,Friend,A person whom one knows and with whom one has a bond of mutual affection.
+56,Father,A male parent.
+57,Power,The ability or capacity to do something or act in a particular way.
+58,Hour,A period of time equal to a twenty-fourth part of a day and night.
+59,Game,"A form of play or sport, especially a competitive one."
+60,Line,"A long, narrow mark or band."
+61,End,"A final part of something, especially a period of time, an activity, or a story."
+62,Member,A person or country belonging to a group or team.
+63,Law,The system of rules recognized by a particular community.
+64,Car,"A road vehicle, typically with four wheels, powered by an internal combustion engine."
+65,City,A large town.
+66,Community,A group of people living in the same place or having a particular characteristic in common.
+67,Name,A word by which a person or thing is known.
+68,President,The elected head of a republican state.
+69,Team,A group of players forming one side in a competitive game or sport.
+70,Minute,A unit of time equal to sixty seconds.
+71,Idea,A thought or suggestion as to a possible course of action.
+72,Kid,A child or young person.
+73,Body,"The physical structure, including the bones, flesh, and organs, of a person or an animal."
+74,Information,Facts provided or learned about something.
+75,Back,The rear surface of the human body from the shoulders to the hips.
+76,Parent,A person's father or mother.
+77,Face,The front part of a person's head.
+78,Others,Additional people or things.
+79,Level,"A position on a real or imaginary scale of amount, quantity, extent, or quality."
+80,Office,"A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work."
+81,Door,"A hinged, sliding, or revolving barrier at the entrance to a building or room."
+82,Health,The state of being free from illness or injury.
+83,Person,A human being regarded as an individual.
+84,Art,The expression or application of human creative skill and imagination.
+85,War,A state of armed conflict between different nations or states or different groups within a nation or state.
+86,History,"The study of past events, particularly in human affairs."
+87,Party,A social gathering of invited guests.
+88,Result,"A consequence, effect, or outcome of something."
+89,"1,","House, a building that serves as living quarters for one or a few families"
+90,"2,","Examination, an exercise designed to examine progress or test qualification or knowledge"
+91,"3,","Dance, to move one's body rhythmically usually to music"
+92,"4,","Adventure, an undertaking usually involving danger and unknown risks"
+93,"5,","Impolite, not polite: Rude"
+94,"6,","Confidential, Intended for or restricted to the use of a particular person, group, or class"
+95,"7,","love, affection based on admiration, benevolence, or common interests."
+96,"8,","Raise, to cause or help to rise to a standing position"
+97,"9,","Market, a meeting together of people for the purpose of trade by private purchase and sale and usually not by auction"
+98,"10,","church, a building for public and especially Christian worship"
+99,"11,","arrogant ,exaggerating or disposed to exaggerate one's own worth or importance often by an overbearing manner"
+100,"12,","Offensive, making aggressive attack"
+101,"13,","Dreadful, causing great and oppressive fear"
+102,"14,","Photograph, a picture or likeness obtained by photography"
+103,"15,","newspaper, a paper that is printed and distributed usually daily or weekly and that contains news, articles of opinion, features, and advertising"
+104,"16,","restaurant, a business establishment where meals or refreshments may be purchased"
+105,"17,","search, to look into or over carefully or thoroughly in an effort to find or discover something"
+106,"18,","expansion, the act or process of expanding"
+107,"19,","unwanted, not wanted or needed"
+108,"20,","sculpture, the action or art of processing (as by carving, modeling, or welding) plastic or hard materials into works of art"
+109,"21,","gladly, experiencing pleasure, joy, or delight : made happy"
+110,"22,","splash, to strike and dash about a liquid or semiliquid substance"
+111,"23,","dish, a more or less concave vessel from which food is served"
+112,"24,","stomp, to walk with a loud heavy step usually in anger"
+113,"25,","greedy, marked by greed : having or showing a selfish desire for wealth and possessions"
+114,"26,","park, an area maintained in its natural state as a public property"
+115,"27,","office, the place in which a professional person conducts business"
+116,"28,","movie, a recording of moving images that tells a story and that people watch on a screen or television"
+117,"29,","bottle, a rigid or semirigid container typically of glass or plastic having a comparatively narrow neck and usually no handle"
+118,"30,","shoes, an outer covering for the human foot typically having a thick or stiff sole with an attached heel and an upper part of lighter material (such as leather)"
+119,"31,","car, a vehicle moving on wheels"
+120,"32,","building, a usually roofed and walled structure built for permanent use (as for a dwelling)"
+121,"33,","house, a building that serves as living quarters for one or a few families"
+122,"34,","test, series of questions or exercises for measuring the skill, knowledge, intelligence, capacities, or aptitudes of an individual or group"
+123,"35,","trial, the action or process of trying or putting to the proof"
+124,"36,","table, a piece of furniture consisting of a smooth flat slab fixed on legs"
+125,"37,","anger, a strong feeling of displeasure and usually of antagonism"
+126,"39,","bird, any of a class (Aves) of warm-blooded vertebrates distinguished by having the body more or less completely covered with feathers and the forelimbs modified as wings"
+127,"40,","history, a chronological record of significant events (such as those affecting a nation or institution) often including an explanation of their causes"
+128,"41,","information, knowledge obtained from investigation, study, or instruction"
+129,Result,"The consequence, effect, or outcome of a particular action or situation."
+130,Change,The act or process of making something different or replacing one thing with another.
+131,Morning,"The early part of the day, typically from sunrise to noon."
+132,Reason,"The justification or explanation for a belief, action, or event."
+133,Research,The systematic investigation into and study of materials and sources to establish facts and reach new conclusions.
+134,Girl,A female child or young woman.
+135,Guy,"Informally refers to a man or a person, often used in a casual context."
+136,Moment,A brief period of time; an instant.
+137,Air,"The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen."
+138,Teacher,"A person who instructs or educates others, typically in a school or university."
+139,Force,Strength or energy as an attribute of physical action or movement.
+140,Education,"The process of receiving or giving systematic instruction, especially at a school or university."
+141,Actor,"A person who performs a role in a play, movie, or television show."
+142,Gold,"A precious metal with a distinctive yellow color, often used for making jewelry and as a standard for currency."
+143,Painting,"An artwork created by applying paint to a surface, typically in a visual or decorative form."
+144,Advertisement,"A form of communication intended to persuade or inform an audience about a product, service, or idea. Advertisements are often used for marketing purposes."
+145,Grass,"A common name for plants in the family Poaceae, characterized by narrow leaves, jointed stems, and often used as a ground cover or for grazing by animals."
+146,Parrot,A colorful and intelligent bird known for its ability to mimic human speech and sounds. Parrots belong to the order Psittaciformes and are often kept as pets.
+147,Afternoon,"The period of time between noon and evening, typically from 12:00 PM to 6:00 PM."
+148,Greece,"A country located in southeastern Europe, known for its rich history, ancient civilization, and contributions to philosophy, art, and democracy."
+149,Pencil,"A writing instrument consisting of a thin cylindrical graphite or colored core encased in a wooden or plastic barrel, used for drawing or writing."
+150,Airport,"A location where airplanes take off and land, providing services for air travel."
+151,Guitar,"A musical instrument with strings, typically played by plucking or strumming."
+152,Piano,"A musical instrument with a keyboard, played by striking keys that cause hammers to strike strings."
+153,Ambulance,"A vehicle equipped for transporting sick or injured people to medical facilities, typically in emergencies."
+154,Hair,"The fine, thread-like strands that grow from the skin of humans and animals."
+155,Pillow,"A support for the head during sleep, usually rectangular and filled with soft material."
+156,Animal,"A living organism that is not a plant, typically capable of voluntary movement and sensation."
+157,Hamburger,"A ground meat patty, usually beef, cooked and served in a bun."
+158,Pizza,"A dish consisting of a flattened round dough topped with tomato sauce, cheese, and various toppings."
+159,Answer,A response to a question or problem; a solution.
+160,Helicopter,A type of aircraft that is lifted and propelled by one or more horizontal rotors.
+161,Planet,"A celestial body that orbits the sun, larger than a dwarf planet but smaller than a star."
+162,Apple,A round fruit with a red or green skin and a crisp white flesh.
+163,Helmet,"A protective head covering worn for safety, often made of hard material."
+164,Plastic,"A synthetic material made from polymers, often molded into various forms for everyday use."
+165,Australia,"A country and continent located in the Southern Hemisphere, known for its unique wildlife and landscapes."
+166,Honey,A sweet substance produced by bees from the nectar of flowers.
+167,Potato,An edible tuberous vegetable.
+168,Army,A large organized military force equipped for warfare.
+169,Holiday,"A day of celebration or observance, often marked by leisure activities and special events."
+170,Portugal,A country in southwestern Europe known for its rich history and maritime influence.
+171,Balloon,"A flexible bag filled with gas, such as helium or air, that can rise and float in the atmosphere."
+172,Horse,"A large domesticated mammal commonly used for riding, racing, and as a work animal."
+173,Queen,"A female monarch, often the ruler of a kingdom or country."
+174,Banana,"A curved, elongated fruit with a yellow skin and soft, sweet flesh."
+175,Hospital,A facility where medical treatment and care are provided to the sick or injured.
+176,Quill,"A writing instrument made from a bird's feather, historically used as a pen."
+177,Battery,A device that stores and provides electrical energy through the conversion of chemical energy.
+178,House,A building or shelter for human habitation.
+179,Rain,Precipitation in the form of water droplets falling from the atmosphere.
+180,Beach,"A shore beside a body of water, often covered in sand or pebbles."
+181,Hydrogen,"A chemical element, the lightest and most abundant in the universe."
+182,Rainbow,An optical and meteorological phenomenon characterized by a spectrum of light appearing in the sky when the sun shines onto droplets of moisture.
+183,Beard,Facial hair that grows on the chin and cheeks of humans.
+184,Ice,"Frozen water, typically in the form of a solid."
+185,Raincoat,A waterproof coat worn to protect against rain.
+186,Bed,A piece of furniture for sleeping or resting.
+187,Insect,A small arthropod with six legs and typically one or two pairs of wings.
+188,Refrigerator,An appliance that keeps food and other perishable items cold.
+189,Belgium,"A country in Western Europe, known for its medieval towns, Renaissance architecture, and as the headquarters of the European Union."
+190,Insurance,A contractual arrangement that provides financial protection against losses or damages in exchange for payment of premiums.
+191,Restaurant,A business establishment where meals are served to customers.
+192,Boy,A male child or young man.
+193,Iron,"A chemical element with the symbol Fe, known for its strength and magnetic properties."
+194,River,"A large, flowing natural stream of water."
+195,Branch,A part of a tree that grows out from the trunk.
+196,Island,"A landmass surrounded by water, smaller than a continent."
+197,Rocket,A cylindrical projectile that can be propelled into the air and often into space.
+198,Breakfast,"The first meal of the day, typically eaten in the morning."
+199,Jackal,A medium-sized carnivorous mammal native to Africa and Asia.
+200,Room,A space enclosed by walls that is part of a building.
+201,Brother,A male sibling.
+202,Jelly,"A sweet, gelatinous substance, often fruit-flavored."
+203,Rose,"A fragrant flower, often symbolizing love or affection."
+204,Camera,A device used to capture and record still or moving images.
+205,Jewellery,"Personal ornaments, such as rings, necklaces, or bracelets, often made of precious metals and gemstones."
+206,Russia,"The largest country in the world, located in Eurasia."
+207,Candle,"A cylindrical piece of wax with a wick, which is lit to provide light."
+208,Jordan,"A country in the Middle East, known for its historical sites, including Petra and the Dead Sea."
+209,Sandwich,A food item consisting of two slices of bread with a filling in between.
+210,Car,"A road vehicle with an engine, typically four wheels, designed for passenger transportation."
+211,Juice,The liquid extracted from fruits or vegetables.
+213,Caravan,"A group of people traveling together, often in a line of vehicles."
+214,Kangaroo,"A large marsupial native to Australia, known for its powerful hind legs."
+215,Scooter,A small motorized vehicle with a step-through frame and a platform for the rider's feet.
+216,Carpet,A floor covering typically consisting of an upper layer of pile attached to a backing.
+217,King,"A male monarch, the ruler of a kingdom."
+218,Shampoo,A liquid or cream substance used for cleaning and conditioning hair.
+219,Cartoon,"A form of visual art, often humorous, characterized by exaggerated features and simplified details."
+220,Kitchen,A room or area equipped for preparing and cooking food.
+221,Shoe,Footwear that covers and protects the foot.
+222,China,"A country in East Asia, known for its rich history and culture."
+223,Kite,"A lightweight toy consisting of a frame covered with paper or fabric, flown in the air."
+224,Soccer,A team sport played with a spherical ball between two teams of eleven players.
+225,Church,A building used for public Christian worship.
+226,Knife,A cutting instrument with a sharp blade and handle.
+227,Spoon,An eating utensil with a shallow bowl and a handle.
+228,Crayon,A stick of colored wax used for drawing.
+229,Lamp,"A device for producing light, often with a bulb and shade."
+230,Stone,"A hard, solid mineral material often used in construction."
+231,Crowd,A large group of people gathered together.
+232,Lawyer,A professional who practices law and provides legal advice.
+233,Sugar,A sweet crystalline substance often used as a sweetener.
+234,Daughter,A female child in relation to her parents.
+235,Leather,"Material made from the skin of animals, often used for clothing or accessories."
+236,Sweden,A country in Northern Europe.
+237,Death,"The permanent cessation of all biological functions, the end of life."
+238,Library,A place where books and other materials are kept for borrowing or reading.
+239,Teacher,A person who educates and imparts knowledge to others.
+240,Denmark,A country in Northern Europe.
+241,Lighter,"A device used for creating a flame, often for lighting cigarettes."
+242,Telephone,A communication device for voice or text conversations over a distance.
+243,Diamond,"A precious gemstone, typically clear and highly valued."
+244,Lion,"A large wild cat, known for its mane and often considered a symbol of strength."
+245,Television,An electronic device for receiving and transmitting moving images and sound.
+246,Dinner,"The main meal of the day, typically eaten in the evening."
+247,Lizard,"A reptile with a long body and tail, typically four legs and scales."
+248,Tent,A portable shelter made of fabric or other material stretched over a frame.
+249,Disease,"A disorder of structure or function in a human, animal, or plant, often causing illness."
+250,Lock,A mechanical device for fastening or securing something.
+251,Thailand,A country in Southeast Asia.
+252,Doctor,"A person qualified to practice medicine, providing medical treatment."
+253,London,The capital city of England and the United Kingdom.
+254,Tomato,"A red or yellowish fruit with a juicy pulp, often used as a vegetable in cooking."
+255,Dog,"A domesticated carnivorous mammal, often kept as a pet."
+256,Lunch,"A midday meal, typically smaller than dinner."
+257,Toothbrush,A tool used for cleaning teeth.
+258,Dream,"A series of thoughts, images, and emotions occurring during sleep."
+259,Machine,A mechanical device with moving parts designed to perform a specific task.
+260,Traffic,"The movement of vehicles on roads, often referring to congestion or flow."
+261,Dress,"A garment with a skirt and bodice, typically worn by women or girls."
+262,Magazine,"A periodical publication containing articles, photographs, and advertisements."
+263,Train,A connected series of vehicles for transporting people or goods on a track.
+264,Easter,"A Christian festival commemorating the resurrection of Jesus, typically observed with church services and the exchange of eggs."
+265,Magician,"A person who performs tricks or illusions, often associated with magic."
+266,Truck,"A large, heavy motor vehicle used for transporting goods."
+267,Egg,"An oval or round object laid by a female bird, reptile, fish, or invertebrate, containing a developing embryo."
+268,Manchester,"A city in northwest England known for its industrial heritage, cultural institutions, and football clubs."
+269,Uganda,"A landlocked country in East Africa, known for its diverse landscapes and wildlife."
+270,Eggplant,"A plant of the nightshade family, cultivated for its dark purple or blackish fruit."
+271,Market,"A place where goods are bought and sold, often in a public space."
+272,Umbrella,A portable device with a canopy that provides protection from rain or sunlight.
+273,Egypt,"A country in North Africa known for its ancient civilization, including the pyramids and Sphinx."
+274,Match,"A small stick of wood or cardboard with a flammable tip, used for lighting fires."
+275,Van,"A type of vehicle, often larger than a car, used for transporting goods or people."
+276,Elephant,"A large mammal with a trunk and tusks, native to Africa and Asia."
+277,Microphone,"A device for converting sound waves into electrical signals, used for amplification or recording."
+278,Vase,A container used for holding flowers or other decorative items.
+279,Energy,"The capacity to do work, often associated with power and vigor."
+280,Monkey,A primate that typically has a long tail and lives in trees.
+281,Vegetable,"A plant or part of a plant that is used as food, typically savory rather than sweet."
+282,Engine,"A machine that converts energy into mechanical motion, often used in vehicles or machinery."
+283,Morning,"The early part of the day, from sunrise until noon."
+284,Vulture,A large bird of prey that scavenges on carrion.
+285,England,"A country in Western Europe, part of the United Kingdom."
+286,Motorcycle,A two-wheeled motor vehicle.
+287,Wall,A vertical brick or stone structure that encloses or divides an area.
+288,Evening,"The later part of the day, typically from late afternoon to night."
+289,Nail,A thin pointed metal pin used for fastening things together.
+290,Whale,A large marine mammal.
+291,Eye,"An organ that detects light and sends signals to the brain, enabling sight."
+292,Napkin,A cloth or paper used for wiping the hands or mouth.
+293,Window,An opening in a wall with glass or other transparent material that allows light to enter.
+294,Family,A group of individuals related by blood or close emotional ties.
+295,Needle,A thin pointed tool used for sewing or injecting.
+296,Wire,A slender flexible strand or rod of metal.
+297,Finland,A Nordic country in Northern Europe.
+298,Nest,A structure built by birds or insects to house their eggs and offspring.
+299,Xylophone,"A musical instrument with wooden bars of different lengths, played with mallets."
+300,"Fish,","Nigeria, Yacht:"
+301,Fish,A cold-blooded aquatic vertebrate with scales and gills.
+302,Nigeria,A country in West Africa.
+303,Yacht,"A recreational boat or ship, often associated with luxury."
+304,"Flag,","Night, Yak:"
+305,Flag,"A piece of cloth with a distinctive design, used as a symbol or for signaling."
+306,Night,The period of darkness between sunset and sunrise.
+307,Yak,"A large, long-haired wild or domesticated ox found in the Himalayan region."
+308,Flower,"The reproductive structure of a flowering plant, typically with colorful petals."
+309,Notebook,A book with pages for writing notes.
+310,Zebra,"A large wild horse native to Africa, known for its distinctive black and white stripes."
+311,Football,"A team sport played with a ball, primarily using the feet."
+312,Ocean,A large body of saltwater that covers most of the Earth's surface.
+313,Zoo,A facility where live animals are exhibited for public viewing.
+314,Forest,A large area covered chiefly with trees and undergrowth.
+315,Oil,"A viscous liquid derived from petroleum, used as fuel or for lubrication."
+316,Garden,"A piece of ground, often near a house, cultivated for growing flowers or vegetables."
+317,Fountain,A structure that shoots water into the air for decorative or dramatic effect.
+318,Orange,"A citrus fruit with a tough reddish-yellow rind and juicy, sweet pulp."
+319,Gain,"To obtain or acquire something, typically through effort or growth."
+320,Game,"An activity or sport with rules and competition, often played for entertainment."
+321,Gap,An opening or space where continuity is lacking; a difference between two things.
+322,Garage,A building or space for parking vehicles or storing tools.
+323,Garbage,Waste material or discarded items that are no longer wanted.
+324,Garden,"A piece of land cultivated for growing flowers, plants, or vegetables."
+325,Gas,A state of matter; a substance that can be burned to produce energy.
+326,Gate,"A barrier or entrance, often with movable parts for controlling access."
+327,Gather,"To bring together or collect items, people, or information."
+328,Gear,Equipment or machinery with specific functions.
+329,Gene,A segment of DNA that carries genetic information.
+330,General,A military officer of high rank; widespread or nonspecific.
+331,Gift,Something given to someone without expectation of payment.
+333,Girlfriend,A female romantic partner.
+334,Give,To transfer possession; to present or offer as a gift.
+335,Glad,Feeling pleased or happy.
+336,Glass,A transparent material; a drinking vessel.
+337,Glove,A covering for the hand.
+338,Go,To move or proceed; to engage in an activity.
+339,Goal,An objective or target; a point scored in sports.
+340,God,A deity or supreme being in various religions.
+341,Gold,A precious metal with a yellow color.
+342,Golf,A sport played on a course with a ball and clubs.
+343,Good,Morally right; pleasing in quality.
+344,Government,The system or organization governing a community or nation.
+345,Grab,To seize or grasp suddenly.
+346,Grade,A level or rank; a mark indicating performance in a course.
+347,Shop,A place where goods or services are sold; a store.
+348,Show,A public performance or exhibition; to present or display.
+349,Sink,A basin with a drain for washing or disposing of liquids; to go downward.
+350,Snail,A slow-moving mollusk with a spiral shell.
+351,Snake,"A long, legless reptile; to move in a winding or sinuous manner."
+352,Snow,Frozen water vapor falling as white flakes; precipitation in the form of ice crystals.
+353,Soda,A carbonated beverage; sodium carbonate or bicarbonate.
+354,Sofa,A long upholstered seat with a back and arms; a couch.
+355,Star,A celestial body that emits light; a famous person or performer.
+356,Step,A movement made by lifting one foot and putting it down in a different place; a stage in a process.
+357,Stew,A dish of meat and vegetables cooked slowly in liquid; to be in a state of agitation.
+358,Stove,An appliance for cooking or heating; a device that produces heat.
+359,Straw,Dried stalks of grain; a thin tube for drinking.
+360,String,A thin cord of twisted fibers; to thread on a string.
+361,Summer,"The warmest season of the year, characterized by longer days."
+362,Swing,To move back and forth on a suspended support; a seat suspended by ropes.
+363,Table,A piece of furniture with a flat top and one or more legs; to postpone discussion.
+364,Tank,A large container for holding liquid or gas; a military vehicle.
+365,Team,A group of people working together; a sports group.
+366,Tent,A portable shelter made of fabric stretched over poles or a frame.
+367,Test,A procedure for assessing abilities or characteristics; to examine or evaluate.
+368,Toes,The digits at the end of the foot; the front part of the foot.
+369,Tree,"A large, perennial plant with a trunk and branches; to climb a tree."
+370,Vest,A sleeveless garment worn over a shirt; to grant or confer.
+371,Water,"A transparent, odorless, tasteless liquid essential for life; to moisten or sprinkle with water."
+372,Hose,A flexible tube conveying water or other fluid.
+373,Joke,A form of entertainment consisting of humorous or clever words or actions.
+375,Kite,"A toy consisting of a light frame with thin material stretched over it, flown in the wind."
+376,Lake,A large body of water surrounded by land.
+377,Maid,A female domestic servant or housekeeper.
+378,Mask,"A covering for the face, often used for protection, disguise, or as part of a costume."
+379,Mice,"The plural form of ""mouse,"" a small rodent."
+380,Milk,A white liquid produced by mammals for nourishment of their young.
+381,Mint,A fragrant herb often used in cooking or for medicinal purposes.
+382,Meal,An occasion when food is eaten.
+383,Meat,"The flesh of animals, especially mammals, used as food."
+384,Moon,"The natural satellite of the Earth, visible in the night sky."
+386,Morning,"The early part of the day, from dawn until noon."
+387,Name,A word or set of words by which a person or thing is known.
+388,Nest,A structure built by birds or insects for housing eggs and offspring.
+389,Nose,The facial organ used for smelling and breathing.
+390,Pear,A sweet and juicy fruit with a thin skin and a core containing seeds.
+391,Pen,A writing instrument with a metal nib for applying ink to paper.
+392,Pencil,"A writing instrument with a thin, cylindrical graphite core encased in wood."
+393,Plant,"A living organism that typically grows in the soil, absorbs water and nutrients, and undergoes photosynthesis."
+394,Rain,Water falling in drops from the atmosphere.
+395,River,"A large natural watercourse, typically flowing towards an ocean, sea, or lake."
+396,Road,A wide way for vehicles or pedestrians; a thoroughfare.
+397,Rock,A naturally occurring solid substance composed of minerals.
+398,Room,An area within a building enclosed by walls.
+399,Rose,A fragrant flower with thorny stems.
+400,Seed,"A small, usually hard-shelled reproductive body of a plant, capable of growing into a new plant."
+401,Shape,"The external form or appearance of an object, person, or thing."
+402,Shoe,"A covering for the foot, typically made of leather, with a sturdy sole and not reaching above the ankle."
+403,pple,A round fruit with red or green skin and a crisp or juicy interior.
+404,Arm,"The upper limb of the human body, extending from the shoulder to the hand."
+405,Banana,"A long, curved fruit with a yellow skin and soft, edible flesh."
+406,Bike,"Short for bicycle, a two-wheeled vehicle powered by pedals."
+407,Bird,"A warm-blooded, feathered creature typically capable of flight."
+408,Book,A written or printed work consisting of pages bound together.
+409,Chin,"The protruding part of the face below the mouth, forming the lower jaw."
+410,Clam,A marine or freshwater mollusk with a hard shell.
+411,Class,A group of students or pupils who are taught together.
+412,Clover,"A small plant with three-lobed leaves, often considered lucky."
+413,Club,A group or organization formed for a specific purpose.
+414,Corn,A cereal plant that produces large grains on cobs; maize.
+415,Crayon,A colored stick of wax or chalk used for drawing or coloring.
+416,Crow,"A large, black bird known for its distinctive cawing sound."
+417,Crown,"A circular ornament worn on the head, often a symbol of royalty."
+419,Crib,A bed with high sides for a baby; a cheat sheet or reference.
+420,Desk,A piece of furniture with a flat or sloped surface for work or writing.
+421,Dime,A coin worth ten cents.
+422,Dirt,Loose soil or earth; filth or uncleanliness.
+423,Dress,A garment worn to cover the body; to put on clothing.
+424,Fang,"A long, pointed tooth, especially in a carnivorous animal."
+425,Field,"An area of open land, often used for cultivation or sports."
+426,Flag,"A piece of cloth with distinctive colors and patterns, often representing a country or symbolizing something."
+427,Flower,"The reproductive structure of a flowering plant, often colorful and fragrant."
+428,Fog,A thick mist or cloud close to the ground.
+429,Game,"An activity or sport with rules, often involving competition."
+430,Heat,The quality of being hot; high temperature.
+431,Hill,"A naturally raised area of land, smaller than a mountain."
+432,Home,A place where one lives; a residence.
+433,Sea,A large body of saltwater that covers much of the Earth's surface.
+434,Sister,A female sibling; a girl or woman who shares one or both parents with another.
+435,Soap,A substance used with water for washing and cleaning.
+436,Song,"A musical composition with lyrics, typically for voice."
+437,Spark,"A small fiery particle thrown off from a fire, flame, or sparkler."
+438,Space,"The vast, seemingly infinite expanse that exists beyond the Earth."
+439,Spoon,An eating or cooking utensil with a shallow bowl and a handle.
+440,Spot,"A small, round mark; a particular place or location."
+441,Spy,A person who secretly collects and reports information about others.
+442,Summer,"The warmest season of the year, typically characterized by longer days."
+443,Tiger,"A large, carnivorous cat with a distinctive striped coat."
+444,Toad,A tailless amphibian with a stout body and short legs.
+445,Town,A human settlement smaller than a city but larger than a village.
+446,Trail,"A path or track, typically through a wilderness area."
+447,Tramp,To walk with heavy steps; a person who travels on foot.
+448,Tray,"A flat, shallow container used for carrying or holding items."
+449,Trick,A clever or deceptive action designed to achieve a specific result.
+450,Trip,"A journey or excursion, typically for pleasure."
+451,Uncle,The brother of one's parent; a male relative.
+452,Vase,"A decorative container, often used for holding flowers or other objects."
+453,Winter,"The coldest season of the year, marked by low temperatures."
+454,Water,"A transparent, tasteless, and odorless liquid essential for life."
+456,Wheel,A circular object that rotates around an axle and is used for transportation.
+457,Wish,A desire or longing for something to happen or be true.
+458,Wool,"The soft, curly hair forming the fleece of sheep."
+459,Yard,"An area of enclosed ground, often surrounding a building."
+460,Goose,"A large waterbird with a long neck, webbed feet, and a honking call."
+461,Grade,A level or degree of something; a mark indicating the quality of a student's work.
+462,Grandfather,The father of one's father or mother.
+463,Grandmother,The mother of one's father or mother.
+464,Grape,"A small, round fruit typically growing in clusters on a vine."
+465,Grass,A low-growing plant with narrow green blades.
+466,Hook,"A curved or bent piece of metal or other material used for catching, holding, or pulling."
+467,Horse,"A large, four-legged mammal commonly used for riding, racing, or as a draft animal."
+468,Jail,A place of confinement for individuals accused or convicted of a crime.
+469,Jam,A sweet spread made from fruit and sugar.
+470,Kiss,A gesture of affection involving the pressing of one's lips against another person or object.
+471,Kitten,A young cat.
+472,Light,The natural agent that stimulates sight and makes things visible; not heavy.
+473,Loaf,A quantity of bread that is shaped and baked in one piece.
+474,Lock,A device for securing something by fastening it with a mechanism.
+475,Lunch,A midday meal.
+476,Lunchroom,"A room or area where meals are served, especially in a workplace or school."
+477,Meal,An occasion when food is eaten; a serving of food.
+479,Notebook,A book with blank pages for writing notes.
+480,Owl,A nocturnal bird of prey with large eyes and a distinctive hooting call.
+481,Pail,A bucket.
+482,Parent,A mother or father.
+483,Park,"A public area of land with grass, trees, and facilities for recreation."
+484,Plot,"The main events of a play, novel, movie, or similar work, devised and presented by the writer."
+485,Rabbit,"A small, burrowing mammal with long ears and a short tail."
+486,Rake,A garden tool with a long handle and teeth for gathering leaves or grass.
+487,Robin,"A small, migratory bird with a red or orange breast."
+488,Sack,"A large bag, typically made of hessian, used for carrying or storing goods."
+489,Sail,"A piece of fabric attached to a mast and boom, used to catch the wind and propel a boat."
+490,Scale,A device for weighing; a relative size or extent.
+491,Alarm,"A device or system that gives a warning, typically through a loud sound, in response to danger or an emergency."
+492,Animal,"A living organism that feeds on organic matter, typically having specialized sense organs and nervous systems."
+493,Aunt,"The sister of one's father or mother, or the wife of one's uncle."
+494,Bait,Food or a lure used to entice or attract fish or other animals for catching.
+495,Balloon,"A flexible bag filled with gas, such as helium or hydrogen, that rises in the air."
+496,Bath,The act of washing oneself or someone else in a container of water.
+497,Bead,"A small, usually spherical object with a hole through it, often threaded to make jewelry."
+498,Beam,"A long, sturdy piece of timber or metal used to support a structure."
+499,Bean,"The edible seed or pod of certain plants, typically eaten as a vegetable."
+500,Bedroom,A room in a house where one sleeps and rests.
+501,Boot,"A covering for the foot and lower part of the leg, typically extending above the ankle."
+502,Bread,"A staple food made from flour, water, and yeast, baked and often leavened."
+503,Brick,A rectangular block of fired clay or concrete used for building walls or other structures.
+504,Brother,A male sibling; a boy or man who shares one or both parents with another.
+505,Camp,"A place where people live in tents or temporary shelters, typically for recreation or as part of a military operation."
+506,Chicken,"A domestic fowl kept for its eggs or meat, or a cowardly person."
+507,Children,"The plural form of ""child,"" referring to more than one young human."
+508,Crook,"A bent or curved implement, typically a staff or a tool with a hooked end."
+509,Deer,"A hoofed mammal with antlers, often found in forests."
+510,Dock,"A structure extending alongshore or out from the shore into a body of water, for securing ships."
+511,Doctor,A qualified practitioner of medicine; a physician.
+512,Downtown,"The central part of a city, often associated with business and commercial activities."
+513,Drum,A musical instrument consisting of a hollow cylindrical body covered at one or both ends with a tightly stretched membrane.
+514,Dust,"Fine, dry particles of matter that can be carried in the air."
+515,Eye,The organ of sight in humans and animals; a symbolic or metaphorical perception.
+516,Family,"A group consisting of parents and their children, considered as a unit."
+518,Fight,A violent confrontation between multiple individuals or groups.
+519,Flesh,The soft substance consisting of muscle and fat that is found between the skin and bones of an animal or a human.
+520,Food,Any substance consumed to provide nutritional support for the body.
+522,Airplane,A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.
+523,Airport,"A place where aircraft take off and land, equipped with facilities for passengers."
+524,Army,"A large organized military force, typically with infantry, armor, and other units."
+525,Baseball,A bat-and-ball game played between two teams of nine players each.
+526,Beef,"The flesh of a cow, steer, or bull, used as food."
+527,Birthday,The anniversary of the day on which a person was born.
+529,Brush,"An implement with bristles used for cleaning, painting, or grooming."
+530,Bushes,"A large plant with many branches, smaller than a tree."
+531,Butter,A solid yellowish fatty food made from cream or milk.
+532,Cast,To throw something forcefully in a specified direction.
+533,Cave,"A natural underground chamber, typically large and having an opening to the surface."
+534,Cent,A monetary unit equal to one hundredth of a dollar in various countries.
+535,Cherries,"Plural of ""cherry,"" a small round fruit with a single hard stone."
+536,Cherry,A small round fruit with a single hard stone.
+537,Cobweb,"A spider's web, especially an old or dusty one."
+538,Coil,A length of something wound or arranged in a spiral or sequence of rings.
+539,Cracker,"A thin, crisp biscuit, typically eaten with cheese."
+541,Eggnog,"A traditional drink made with milk, eggs, sugar, and usually alcohol, often served at Christmas."
